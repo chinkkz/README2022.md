@@ -23,8 +23,14 @@ At the top of the page, under the navigation banner, you will see an anchor menu
 On click, it will take you directly to the type of item you are looking for.
 For example, if you wanted to see T-shirts, click "T-shirts" in the achor menu and it will direct you straight to the T-shirt section.
 
+If you click on the hyperlink which says "Buy.... Hoodie", it will take you to the item page.
+
 Also at the bottom of the page you will see the same footer as the homepage.
 This footer is across the whole page to keep the theme consistent. 
+
+# Item page
+In this page, the item you have selected will appear on the screen with the description at the bottom.
+At the top will be the navigation bar and at the bottom of the page will be the footer.
 
 # Cart
 
